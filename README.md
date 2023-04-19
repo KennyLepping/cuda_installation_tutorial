@@ -5,6 +5,7 @@ To install Pytorch, I ran this command from https://pytorch.org/get-started/loca
 ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
 So CUDA 12.1 works with Pytorch, I just don't know how to get that version to work with Pytorch. I would install CUDA 11.8 if you haven't from here:
+
 https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
 
 Then install NVIDIA cuDNN for CUDA 11.x from here (Local Installer for Windows (Zip):
