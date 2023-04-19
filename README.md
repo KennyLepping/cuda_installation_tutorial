@@ -48,4 +48,4 @@ Then re-install Pytorch with this command:
 
 ```pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
-Then CUDA should be enabled. This is what worked for me with a Nvidia GTX GPU on Windows 10.
+Then CUDA should be enabled. This is what worked for me with an Nvidia GTX GPU on Windows 10.
